@@ -1,9 +1,13 @@
 # CCC
 
-Fork, then clone, this repository to complete CCC contest prep.
+Fork this repository:
 
-I want to be able to provide you with course credit for CCC contest prep – if I am to do this, you must track the work you complete to prepare for the contest using GitHub.
+![Image of fork button](http://russellgordon.ca/rsgc/2015-16/ics4u/fork.png)
 
-Please fork this repository to your own account.
+To your account:
 
-Then, clone the repository to your local computer or a Cloud9 workspace (best option if working with PHP).
+![Image of fork button](http://russellgordon.ca/rsgc/2015-16/ics4u/toaccount.png)
+
+Then clone this repository – to either your own computer – or a Cloud9 workspace (best if working with PHP).
+
+I want to be able to provide you with course credit for CCC contest prep – if I am to do this, you **must track the work you complete to prepare for the contest using GitHub**.
