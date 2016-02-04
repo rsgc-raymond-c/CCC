@@ -8,7 +8,7 @@ To your account:
 
 ![Image of fork button](http://russellgordon.ca/rsgc/2015-16/ics4u/toaccount.png)
 
-Then clone this repository – to either your own computer – or a Cloud9 workspace (best if working with PHP)
+Then clone this repository – to either your own computer – or a Cloud9 workspace (best if working with PHP).
 
 If using Cloud9, please create a new workspace (don't practice in the same workspace you are using for your group project).
 
