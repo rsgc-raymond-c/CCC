@@ -8,8 +8,8 @@ dayGiven = int(raw_input("Input Day"))
 date = [monthGiven,dayGiven]
 
 if date[0] < month or date[0] == month and date[1] < day:
-    print "before"
+    print "Before"
 elif date[0] > month or date[0] == month and date[1] > day:
-    print "after"
+    print "After"
 elif date[0] == month and date[1] == day:
-    print "special"
+    print "Special"
